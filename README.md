@@ -1,1 +1,1 @@
-# Bulk-Email-Sender-App
+# Bulk Email Sender App
