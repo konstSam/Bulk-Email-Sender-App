@@ -1,6 +1,6 @@
 # Bulk Email Sender App
 
-1. Create a list in a .txt file, containing the name and email of each client per line {NAME}, {EMAIL}. (e.g. Sam Kostas, k.s@gmail.com)
+1. Create a list in a .txt file, containing the name and email of each client per line {NAME}, {EMAIL}. (e.g. Sam Kostas, k.s@mail.com)
 
 2. The pdf files of each person MUST called "{NAME}'s Portfolio".
 
